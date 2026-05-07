@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "PrimalCarnageGame\\PrimalCarnageGame.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "PrimalCarnageGame\\PrimalCarnageEngine.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
