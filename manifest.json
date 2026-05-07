@@ -1,10 +1,10 @@
 {
     "id": "72b2e86d-4d0f-4768-bb96-0ca60399b077",
     "authors": [
-        "MaltronCraft - Made with AMP Config Generator"
+        "MaltronCraft"
     ],
-    "origin": "https://github.com/MaltronCraft - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/MaltronCraft - Made with AMP Config Generator/AMPTemplates",
+    "origin": "https://github.com/MaltronCraft/AMPTemplates.git",
+    "url": "https://github.com/MaltronCraft/AMPTemplates",
     "imagefile": "",
-    "prefix": "MaltronCraft - Made with AMP Config Generator"
+    "prefix": "MaltronCraft"
 }
